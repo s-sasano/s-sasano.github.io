@@ -1,7 +1,4 @@
-misc
-ID,タイトル(英語),タイトル(日本語),著者(英語),著者(日本語),誌名(英語),誌名(日本語),出版年月,DOI,主要な業績かどうか
-paper-1,Your Paper Title 1,あなたの論文タイトル1,"Author 1, Author 2","著者1, 著者2",Journal Name,ジャーナル名,2023-01,10.1234/abcd,false
-paper-2,Your Paper Title 2,null,"Author 1, Author 2","著者1, 著者2",Journal Name,ジャーナル名,2022-12,10.1234/abcd,true
-paper-3,null,あなたの論文タイトル3,"Author 1, Author 2","著者1, 著者2",Journal Name,ジャーナル名,2024-01,10.1234/abcd,true
-paper-4,Your Paper Title 4,null,"Author 1, Author 2",null,Journal Name,null,2024-11,10.1234/abcd,true
-paper-5,Your Paper Title 5,null,null,"著者1, 著者2",null,ジャーナル名,2020-01,10.1234/abcd,true
+﻿misc
+アクション名,アクションタイプ,類似業績マージ優先度,ID,タイトル(日本語),タイトル(英語),著者(日本語),著者(英語),担当区分,概要(日本語),概要(英語),出版者・発行元(日本語),出版者・発行元(英語),出版年月,誌名(日本語),誌名(英語),巻,号,開始ページ,終了ページ,記述言語,査読の有無,招待の有無,掲載種別,国際・国内誌,国際共著,DOI,ISSN,eISSN,URL,URL2,主要な業績かどうか,公開の有無
+insert,merge,null,48050942,フッ化物電池用LaAl3負極の開発・微細構造解析,null,"[佐々野駿,石川亮,川原一晃,柴田直哉,幾原雄一]",null,null,null,null,null,null,2024-10,"CERAMICS JAPAN",null,59,null,698,701,null,null,false,null,null,null,null,null,null,null,null,false,disclosed
+insert,merge,null,47271464,原子間力顕微鏡・走査透過型電子顕微鏡による固体電解質の局所構造・物性評価,null,"[佐々野駿,石川亮,太田裕道,柴田直哉,幾原雄一]",null,null,null,null,null,null,2023-10,"JAIMA Season 2023 Autumn",null,174,null,4,8,null,null,false,null,null,null,null,null,null,null,null,false,disclosed
