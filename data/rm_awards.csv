@@ -1,9 +1,9 @@
-awards
-ID,賞名(日本語),賞名(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),受賞年月,主要な業績かどうか
-example-id,賞名,"Example Award Name",タイトル,"Example Title",授与機関,"Example Awarder",2025-03,false
-49341459,青葉研究奨励賞,"Aoba Research Encouragement Prize",null,null,青葉研究奨励会,"Aoba Research Foundation",2025-03,false
-48550881,"Institutional Participant in the Rising Stars Women in Science Workshop",null,null,null,null,null,2024-11,false
-46398327,理学系研究科研究科長賞（研究最優秀）,"Dean's Award (Excellence in Research)",null,null,京都大学,"Kyoto University",2023-03,false
-46398303,日本生物学会第64回シンポジウム最優秀ポスター賞,null,null,null,日本生物学会,null,2021-11,false
-46398299,日本化学学会・物理学会奨学賞,null,null,null,"日本化学学会 物理学会",null,2018-03,false
-46398295,理学部長賞,"Dean's Award",null,null,京都大学,"Kyoto University",2018-03,false
+﻿awards
+アクション名,アクションタイプ,類似業績マージ優先度,ID,賞名(日本語),賞名(英語),受賞者・グループ(日本語),受賞者・グループ(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),概要(日本語),概要(英語),受賞年月,受賞区分,受賞国・地域,URL,主要な業績かどうか,公開の有無
+insert,merge,null,43761929,"日本セラミックス協会 第36回秋季シンポジウム「特定セッション 最優秀プレゼンテーション賞」",null,null,null,null,null,null,null,null,null,2023-09,null,null,null,false,disclosed
+insert,merge,null,43761932,第72回金属組織写真賞「最優秀賞」,null,null,null,null,null,null,null,null,null,2022-03,null,null,null,false,disclosed
+insert,merge,null,43761935,第14回物性科学領域横断研究会「若手奨励賞」,null,null,null,null,null,null,null,null,null,2020-12,null,null,null,false,disclosed
+insert,merge,null,43762048,"日本セラミックス協会 第45回学術写真賞「優秀賞」",null,null,null,null,null,null,null,null,null,2020-11,null,null,null,false,disclosed
+insert,merge,null,43762057,新学術領域研究「機能コアの材料科学」第1回若手の会「優秀発表賞」,null,null,null,null,null,null,null,null,null,2019-09,null,null,null,false,disclosed
+insert,merge,null,43762061,"日本セラミックス協会 第31回秋季シンポジウム「特定セッション 優秀発表賞」",null,null,null,null,null,null,null,null,null,2018-09,null,null,null,false,disclosed
+insert,merge,null,43762065,"日本セラミックス協会 第30回秋季シンポジウム「特定セッション 学生優秀講演賞」",null,null,null,null,null,null,null,null,null,2017-09,null,null,null,false,disclosed
