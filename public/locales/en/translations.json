@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Shun Sasano"
   },
   "nav": {
     "bio": "About",
@@ -10,21 +10,21 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
-    "phd": "",
+    "name": "Shun Sasano",
+    "nameJp": "佐々野駿",
+    "phd": "Ph.D. in Engineering",
     "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
+    "position": "Project Assistant Professor",
     "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "github": "",
+    "scholar": "",
+    "orcid": "https://orcid.org/0000-0001-8380-6031",
+    "researchmap": "https://researchmap.jp/shun_sasano",
+    "linkedin": "",
     "researchInterests": "Research Interests",
     "researchTags": [
-      "Mathematics",
-      "Physics"
+      "Battery",
+      "Electron Microscopy"
     ]
   },
   "publications": {
@@ -60,13 +60,13 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "sasano[at]sigma.t.u-tokyo.ac.jp",
     "phone": "Phone",
     "phoneNumber": "+81-3-5841-7689",
     "address": "Address",
     "addressLine1": "Electron Microscopy and Materials Science Laboratory",
     "addressLine2": "The University of Tokyo",
-    "addressLine3": "Room 419, Faculty of Engineering Bldg. 9, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan",
+    "addressLine3": "Room 428, Faculty of Engineering Bldg. 9, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan",
     "socialMedia": "",
     "linkedin": "",
     "facebook": "",
