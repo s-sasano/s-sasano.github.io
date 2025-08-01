@@ -45,6 +45,16 @@
     "organization": "東京大学",
     "location": "東京、日本",
     "startDate": "2022",
+    "endDate": "2025",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-6",
+    "position": "助教",
+    "organization": "東京大学",
+    "location": "東京、日本",
+    "startDate": "2025",
     "endDate": null,
     "description": "",
     "type": "work"
