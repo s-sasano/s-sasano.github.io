@@ -45,6 +45,16 @@
     "organization": "The University of Tokyo",
     "location": "Tokyo, Japan",
     "startDate": "2022",
+    "endDate": 2025,
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-6",
+    "position": "Assistant Professor",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2025",
     "endDate": null,
     "description": "",
     "type": "work"
